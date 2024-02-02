@@ -1,7 +1,9 @@
 ##### Hi there 👋 
 
 🔭 I’m currently working on SQL / Machine Learning / Deep Learning projects.
+
 🌱 Also checkout my [Tableau public page.](https://public.tableau.com/app/profile/mahejabeenab/vizzes)
+
 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mahejabeenabdul/)
 
 <!--
