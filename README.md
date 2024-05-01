@@ -1,10 +1,10 @@
 
+
 # Hi 👋, I'm Mahe Jabeen 
 
 Im a data analyst, data science professional
 
-
-#### Hi there 👋 
+# About me
 
 - 🔭 I’m currently working on SQL / Machine Learning / Deep Learning projects.
 - 🌱 Also checkout my [Tableau public page.](https://public.tableau.com/app/profile/mahejabeenab/vizzes)
