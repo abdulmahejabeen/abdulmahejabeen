@@ -1,6 +1,6 @@
 
-# Hi 👋, I'm Mahe Jabeen 
-Im a data analyst, data science professional
+                                                               # Hi 👋, I'm Mahe Jabeen 
+                                                      Im a data analyst, data science professional
 
 
 #### Hi there 👋 
