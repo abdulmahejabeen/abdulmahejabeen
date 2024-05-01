@@ -1,3 +1,8 @@
+
+### Hi 👋, I'm Mahe Jabeen 
+Im a data analysis, data science professional
+
+
 #### Hi there 👋 
 
 - 🔭 I’m currently working on SQL / Machine Learning / Deep Learning projects.
