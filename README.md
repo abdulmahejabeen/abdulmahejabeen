@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mahe Jabeen 
 
-Im a data analyst, data science professional
+Im a data analyst, data science professional.
 
 # About me
 
