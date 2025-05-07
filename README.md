@@ -10,7 +10,7 @@ Im a data analyst, data science professional.
 - 🌱 Also checkout my [Tableau public page.](https://public.tableau.com/app/profile/mahejabeenab/vizzes)
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mahejabeenabdul/)
 - Also check my posts on [Medium](https://medium.com/@mahejabeen)
-- My portfolio on [Portfolio](https://www.datascienceportfol.io/mahejabeen)
+- My projects on [Portfolio](https://www.datascienceportfol.io/mahejabeen)
 
 # Projects Highlights
 
